@@ -5,3 +5,6 @@ __pycache__/
 
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
+
+# Ignore Anaconda project database
+anaconda_projects/db/
