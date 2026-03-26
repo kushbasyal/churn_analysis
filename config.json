@@ -1,6 +1,6 @@
 {
     "paths": {
-        "customer_churn_dataset": "data/customer_churn_dataset",
+        "customer_churn_dataset": "data/customer_churn_dataset.csv",
         "clean_customer_data": "data/clean_customer_data.csv",
         "images": "images/",
         "notebooks": "notebooks/",
