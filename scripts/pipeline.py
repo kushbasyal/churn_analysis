@@ -41,6 +41,7 @@ def run_pipeline():
     df_clean = transform(df)
     load(df_clean)
     print("Pipeline complete!")
+    return df_clean
 
 if __name__ == "__main__":
     run_pipeline()
