@@ -48,14 +48,13 @@ print(X[0])
 
 for i in df_cat.columns:
     print(df_cat[i].value_counts())
+sns.pairplot(df, hue = 'churn')
+plt.show()
 
-'''sns.pairplot(df, hue = 'churn')
-plt.show()'''
-
-'''for i in df_num.columns:
+for i in df_num.columns:
     plt.figure(figsize = (10,6))
     sns.histplot(df_num[i], kde = True)
-    plt.show()'''
+    plt.show()
 
 y = df.iloc[:,-1].values
 print(y[0])
