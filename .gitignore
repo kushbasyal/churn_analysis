@@ -8,3 +8,5 @@ __pycache__/
 
 # Ignore Anaconda project database
 anaconda_projects/db/
+
+anaconda_projects/db/project_filebrowser.db
