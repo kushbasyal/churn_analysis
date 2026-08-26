@@ -8,5 +8,9 @@ venv/
 *.log
 .DS_Store
 Thumbs.db
+<<<<<<< HEAD
+=======
+
+>>>>>>> main
 .virtual_documents/
 anaconda_projects/
