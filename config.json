@@ -2,6 +2,7 @@
     "Data":{
         "raw_data_path" : "data/raw/customer_churn_data.csv",
         "clean_data_path" : "data/processed/cleaned_customer_data.csv",
-        "visualization_dir" : "visualizations/generated_charts"
+        "visualization_dir" : "visualizations/generated_charts",
+        "clustering_charts" :"visualizations/clustering_charts"
     }
 }
